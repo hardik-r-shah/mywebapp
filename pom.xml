@@ -16,7 +16,7 @@ restricted by GSA ADP Schedule Contract with IBM Corp.
   <version>1.0-SNAPSHOT</version>
 
   <name>mywebapp</name>
-  <url>http://maven.apache.org</url>
+  <url>http://maven.apache.org1</url>
 
   <dependencies>
   	<dependency>
